@@ -1,0 +1,10 @@
+{
+  "category": "某 PD-1 抑制剂(虚构) · 华南区域市场分析",
+  "beforeNote": "广州>深圳>佛山,广州最大 →「投广州」",
+  "afterNote": "机会在深圳(潜力没吃透+涨得快)→「倾深圳」",
+  "cities": [
+    {"name":"广州","sales":1500,"ratio":0.85,"gr":11,"opp":false},
+    {"name":"深圳","sales":1100,"ratio":0.45,"gr":22,"opp":true},
+    {"name":"佛山","sales":600,"ratio":0.30,"gr":7,"opp":false}
+  ]
+}
